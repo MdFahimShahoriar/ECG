@@ -1,4 +1,4 @@
-# 🫀 ECG Biometric Authentication System
+# 🫀 ECG Biometric Authentication System.
 
 ![ECG Banner](https://github.com/MdFahimShahoriar/ECG/raw/main/images/banner.png)
 
